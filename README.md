@@ -117,6 +117,7 @@ sns.heatmap(corr,annot=True)
 sns.pairplot(df)
 ```
 ![image](https://github.com/user-attachments/assets/f6acc866-4d38-4b1f-ba55-999f90277498)
+![image](https://github.com/user-attachments/assets/6deaa5bc-9e9d-4753-b173-a5859bb9951e)
 
 # RESULT
 Thus, the Exploratory Data Analysis on the given data set was performed successfully.
